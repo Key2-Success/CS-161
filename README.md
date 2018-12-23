@@ -1,0 +1,2 @@
+# CS 161
+CS 161 is Fundamentals of Artificial Intelligence, which I took under Professor Adnan Darwiche in Fall of 2018. I have included 4 homework assignments. I have not included all of the homework assignments because I am aware that many of the homework assignments are recycled and thus I do not want to encourage cheating. Regardless, please do not copy your homework assignments from mine; I have simply posted my solutions to showcase my mastery of this class.
